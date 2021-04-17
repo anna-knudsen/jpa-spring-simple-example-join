@@ -3,6 +3,8 @@ A repository for Spring JPA examples
 
 This is a small and simple example for how to use JPA join.
 
+Import the project as a gradle project
+
 ## I used:
 
 * PhpMyAdmin (for creating the MySql database)
